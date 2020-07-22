@@ -2,7 +2,7 @@
 
 This script uses selenium to iterate through the image search results of a specific term and downloads the specified number of images sequentially. 
 
-![scrapingProcessGif]()
+![scrapingProcessGif](https://github.com/mhgan1798/googleImageScraper/blob/master/gifs/2020-07-22%2019-21-59%201.gif?raw=true)
 
 ## How to use
 - If python is in your PATH, run the file in a terminal or command line using:
