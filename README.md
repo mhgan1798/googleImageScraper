@@ -17,4 +17,4 @@ The script attempts to allocate sufficient time to download an image. Upon failu
 
 These types of errors can arise due to a slow internet connection or when the image file is simply too big to download in time. The script can be modified accordingly by changing the sys.time() calls.
 
-Every 25 iterations on the google image page, selenium runs into the "Related Searches" element. This element is removed before scraping because clicking on it would result in the desired image page being lost, as the browser navigates to a separate page.
+Every 25 iterations, selenium runs into the "Related Searches" element. This element is removed before scraping because clicking on it would result in the desired image page being lost, as the browser navigates to a separate page.
